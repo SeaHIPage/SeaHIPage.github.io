@@ -1,0 +1,1 @@
+更新主题版本后，把/source/SeaHI_Page_asset目录中的图片放在/theme/redefine/source/images中
